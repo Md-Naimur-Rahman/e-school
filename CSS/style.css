@@ -1,0 +1,182 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    padding: 1em;
+}
+
+.btn{ 
+    background: #21B573;
+    color: #FFFFFF;
+    font-size: 16px;
+    width: 104px;
+    height: 43px;
+    border-radius: 33px;
+}
+
+.btn:hover{
+    background-image: linear-gradient(45deg, rgb(59, 200, 243),rgb(83, 71, 255));
+}
+
+/* .......................................................................................................................................... */
+
+
+
+/* navigation bar design area  */
+
+
+.nav-item .nav-link{
+    color: black  !important;;
+    margin-right: 30px;
+
+} 
+
+.nav-link:hover{
+    border: 1px solid #000000;
+} 
+
+
+
+/* .......................................................................................................................................... */
+
+
+
+
+
+/* Banner design area  */
+
+.banner{
+    margin-top: 5em;
+}
+
+.banner h1{
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+    margin: 0.4em 0em;
+}
+.banner .btn{
+    width: 153px; 
+    height: 43px ;
+    margin: 1em 0em;
+}
+
+
+
+
+/* .......................................................................................................................................... */
+
+
+
+
+/* Learn Anything design area  */
+
+.learn {
+    margin: 7em 0em;
+
+}
+
+.learn .row{
+    padding: 1em;
+    text-align: center;
+   
+}
+
+.learn .box:hover{
+    border: 1px solid #42bb70;
+    
+}
+
+.learn .card-title{
+    margin-bottom: 0%;
+    font-weight: 500;
+    font-size: 20px;
+    color: #413960;
+    margin-top: 1em;
+}
+
+.learn .card-text{
+    font-size: 16px;
+    color: #585859;
+    margin-bottom: 2em;
+    
+}
+
+
+
+/* .......................................................................................................................................... */
+
+
+
+
+/* Online Course design area  */
+
+.online{
+    margin: 5em 0em;
+}
+.online h1{
+    font-weight: bold;
+    font-size: 50px;
+    color: #413960;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.online .btn {
+    width: 137px;
+    height: 35px;
+}
+
+.online .icon {
+    height: 24px;
+    width: 22px;
+}
+
+
+
+/* .......................................................................................................................................... */
+
+/* Testimonial  Design Area */
+
+.testimonial{
+    margin: 10em 0em;
+}
+.testimonial h1{
+    font-weight: bold;
+    font-size: 50px;
+    color: #413960;
+    text-align: center;
+    margin-bottom: 1.5em ;
+}
+
+.testimonial img{
+    width: 140px;
+    height: 140px;
+}
+
+
+/* .......................................................................................................................................... */
+
+
+/* Footer  Design Area */
+
+
+footer {
+    background-color: #282531;
+    color: #FFFFFF;
+    padding: 5em 5em 2em 5em;
+}
+footer a{
+    text-decoration: none;
+    color: #FFFFFF;
+    
+}
+
+
+
+
+/* .......................................................................................................................................... */
